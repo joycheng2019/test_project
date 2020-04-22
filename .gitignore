@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #ignore config.py
-.config.py
+config.py
 
 #ignore DS_Store
 .DS_Store
